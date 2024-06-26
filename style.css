@@ -129,6 +129,7 @@ header {
 }
 
 #menu-btn {
+    display: none;
     color: #fff;
     cursor: pointer;
 }
