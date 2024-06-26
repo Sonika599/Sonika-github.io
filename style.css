@@ -11,7 +11,7 @@
 
 body {
     height: 100vh;
-    background: url("hero-bg.jpg");
+    background: url("image/hero-bg.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -171,7 +171,7 @@ header {
     margin: 20px;
     padding: 20px;
     text-align: center;
-    color: #111010; /* Text color for product titles, prices, etc. */
+    color: #0a0909; /* Text color for product titles, prices, etc. */
 }
 
 .product img {
